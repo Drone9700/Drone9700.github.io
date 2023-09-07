@@ -1,0 +1,12 @@
+#banner {
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+  
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #banner_contents {
+    width: 800px;
+  }
